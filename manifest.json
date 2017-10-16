@@ -1,0 +1,6 @@
+{
+  "name": "app-troca-arquivos",
+  "short_name": "app-troca-arquivos",
+  "start_url": "/",
+  "display": "standalone"
+}
